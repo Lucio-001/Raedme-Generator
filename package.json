@@ -1,0 +1,25 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "readme-generator run with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lucio-001/Readme-Generator.git"
+  },
+  "author": "Lucio Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucio-001/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/Lucio-001/Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "keywords": [
+    "Node.js"
+  ]
+}
